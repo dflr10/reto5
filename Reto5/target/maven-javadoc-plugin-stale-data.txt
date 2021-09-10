@@ -1,0 +1,57 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/lenov/.m2/repository/mysql/mysql-connector-java/8.0.20/mysql-connector-java-8.0.20.jar;C:/Users/lenov/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'D:/Documentos/MisiónTic2022-Ministrerio TIC/CICLO2/Java/Reto5/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Documentos/MisiónTic2022-Ministrerio TIC/CICLO2/Java/Reto5/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Reto5 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/Documentos/MisiónTic2022-Ministrerio TIC/CICLO2/Java/Reto5/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Reto5 1.0-SNAPSHOT API'
+com.misiontic.reto5.controller
+com.misiontic.reto5.model
+com.misiontic.reto5.view
+'D:/Documentos/MisiónTic2022-Ministrerio TIC/CICLO2/Java/Reto5/src/main/java/com/misiontic/reto5/controller/ClientController.java'
+'D:/Documentos/MisiónTic2022-Ministrerio TIC/CICLO2/Java/Reto5/src/main/java/com/misiontic/reto5/controller/Main.java'
+'D:/Documentos/MisiónTic2022-Ministrerio TIC/CICLO2/Java/Reto5/src/main/java/com/misiontic/reto5/model/Client.java'
+'D:/Documentos/MisiónTic2022-Ministrerio TIC/CICLO2/Java/Reto5/src/main/java/com/misiontic/reto5/model/Conexion.java'
+'D:/Documentos/MisiónTic2022-Ministrerio TIC/CICLO2/Java/Reto5/src/main/java/com/misiontic/reto5/model/IClientDAO.java'
+'D:/Documentos/MisiónTic2022-Ministrerio TIC/CICLO2/Java/Reto5/src/main/java/com/misiontic/reto5/model/ImplClientDAO.java'
+'D:/Documentos/MisiónTic2022-Ministrerio TIC/CICLO2/Java/Reto5/src/main/java/com/misiontic/reto5/view/FormClient.java'
+C:\Users\lenov\.m2\repository\mysql\mysql-connector-java\8.0.20\mysql-connector-java-8.0.20.jar = 1630720554506
+C:\Users\lenov\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar = 1630720554982
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\src\main\java = 1630719213121
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\allclasses-frame.html = 1631231764945
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\allclasses-noframe.html = 1631231764947
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\constant-values.html = 1631231764812
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\deprecated-list.html = 1631231764942
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\help-doc.html = 1631231764958
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\index-all.html = 1631231764937
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\index.html = 1631231764950
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\javadoc.bat = 1631231718255
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\overview-frame.html = 1631231764766
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\overview-summary.html = 1631231764953
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\overview-tree.html = 1631231764922
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\package-list = 1631231764764
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\script.js = 1631231764961
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\serialized-form.html = 1631231764832
+D:\Documentos\MisiónTic2022-Ministrerio TIC\CICLO2\Java\Reto5\target\site\apidocs\stylesheet.css = 1631231667318

@@ -1,0 +1,8 @@
+com\misiontic\reto5\view\FormClient$1.class
+com\misiontic\reto5\model\ImplClientDAO.class
+com\misiontic\reto5\model\Client.class
+com\misiontic\reto5\model\Conexion.class
+com\misiontic\reto5\controller\ClientController.class
+com\misiontic\reto5\view\FormClient.class
+com\misiontic\reto5\controller\Main.class
+com\misiontic\reto5\model\IClientDAO.class
